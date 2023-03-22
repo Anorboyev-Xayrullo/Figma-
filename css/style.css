@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card{
+    padding: 21px 23px;
+    background-color: antiquewhite;
+}
+
+.fashion{
+    font-size: 28px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.more{
+    padding: 5px 10px;
+    border: none;
+}
+.galaxy{
+    width: 100%;
+}
+.photo{
+    margin-top: 20px;
+    padding: 21px 23px;
+    background-color: antiquewhite;
+}
+
+.get{
+    font-size: 16px;
+}
+
+.mute{
+    text-align: center;
+}
+.fa-brands{
+    font-size: 40px;
+     margin-left: 20px;
+    color: blue;
+}
+
+footer{
+    margin-top: 50px;
+}
